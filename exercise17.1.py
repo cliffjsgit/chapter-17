@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+__author__ = "Your Name"
+
 ###############################################################################
 #
-print("\nExercise 17.1\n")
+# Exercise 17.1
 #
-# Question 1
+#
 # 1. Download the code from this chapter from :
 #    http://thinkpython2.com/code/Time2.py. 
 # Change the attributes of Time to be a single integer representing seconds 

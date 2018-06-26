@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 
+__author__ = "Your Name"
+
 ###############################################################################
 #
-print("\nExercise 17.2\n")
+# Exercise 17.2
 #
-# Question 1
+#
 # 1. This exercise is a cautionary tale about one of the most common, and 
 # difficult to find, errors in Python. Write a definition for a class named 
 # Kangaroo with the following methods:
@@ -17,11 +19,7 @@ print("\nExercise 17.2\n")
 #        object and the contents of the pouch.
 #
 # Test your code by creating two Kangaroo objects, assigning them to variables 
-# named kanga and roo, and then adding roo to the contents of kanga's pouch.
+# named kanga and roo, and then adding roo to the contents of kanga’s pouch.
 #
 # Download http://thinkpython2.com/code/BadKangaroo.py. It contains a solution
 # to the previous problem with one big, nasty bug. Find and fix the bug.
-# 
-# If you get stuck, you can download http://thinkpython2.com/code/GoodKangaroo.py
-# which explains the problem and demonstrates a solution.
-# 
