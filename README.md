@@ -26,5 +26,5 @@ problems, into the solutions directory.
      ...
     
 Make sure that you copy all of your completed exercise solutions and the other files
-from this chapter into your **single**  ~/chapter14/solutions directory, 
+from this chapter into your **single**  ~/chapter17/solutions directory, 
 preserving the orignal file names of these files. 
