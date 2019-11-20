@@ -1,9 +1,9 @@
 # chapter-17
 # Instructions
 
-In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapter 15. 
+In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapter 17. 
 
-Start by cloning the Chapter 15 Exercises into you local repository.
+Start by cloning the Chapter 17 Exercises into you local repository.
      
      $ cd ~
      $ git clone https://github.com/cliffjsgit/chapter-17
@@ -19,8 +19,8 @@ Create a solutions directory for your exercise solutions, in the chapter-17 dire
       
      ~/chapter-17 (master)$ mkdir solutions
       
-Copy all of your final/completed chapter-17 lab **exercise solutions** from all exercise 
-problems, and the **words.txt** file into the solutions directory.  
+Copy all of your final/completed chapter-17 lab **exercise files** from all exercise 
+problems, into the solutions directory.  
     
      ~/chapter-17 (master)$ cp *  solutions/ 
      ...
